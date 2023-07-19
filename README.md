@@ -1,5 +1,11 @@
 ![Header](./images/github-header-image.png)
 
+<!--![Sedrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedrew&show_icons=true&theme=merko)-->
+
+
+| <a href="https://github.com/sedrew"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sedrew&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/sedrew"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedrew&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | -------------- |
+
 <!--
 **sedrew/sedrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
